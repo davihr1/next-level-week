@@ -10,4 +10,4 @@
 * **SQLite3**
 ### Instrutor: [Mayk Brito](https://github.com/maykbrito)
 ---
-***</>*** **by [christyanbrayan](https://github.com/davifa1)**
+***</>*** **by [DaviHenriqueSilvaFavaro](https://github.com/davifa1)**
